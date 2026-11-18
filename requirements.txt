@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn>=1.3
+geopandas
+pyogrio
+rasterio
+rasterstats
+earthengine-api
+folium
+requests

@@ -1,0 +1,4 @@
+cluster,n_cells,PVOUT,log_pop_density,pct_builtup,pct_cropland,pct_bare,log_dist_road_km,log_dist_power_line_km
+0,29,1659.293,7.404,37.046,13.18,8.293,0.991,1.429
+1,880,1832.772,1.206,0.138,0.669,95.421,2.855,3.164
+2,750,1676.349,4.129,2.29,36.702,17.419,1.731,1.943
