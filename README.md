@@ -6,7 +6,7 @@ Screening the whole of Tunisia for zones where solar photovoltaic development is
 **Programme:** 2nd year Professional Master's in Data Science, Institut Supérieur d'Informatique de Mahdia  
 **Supervisor:** Sirine Marrakchi
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/tunisia-solar-priority-zones/blob/main/notebooks/tunisia_solar_priority_zones.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SeifAbroud/tunisia-solar-priority-zones/blob/main/notebooks/tunisia_solar_priority_zones.ipynb)
 
 <p align="center">
   <img src="figures/clusters_map.png" height="420" alt="Map of Tunisia coloured by cluster">
