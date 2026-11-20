@@ -4,7 +4,7 @@ Screening the whole of Tunisia for zones where solar photovoltaic development is
 
 **Authors:** Seifeddine Abroud and Ghezlen Ben Abdrahmen  
 **Programme:** 2nd year Professional Master's in Data Science, Institut Supérieur d'Informatique de Mahdia  
-**Supervisor:** Sirine Marrakchi
+**Supervisor:** Mme Sirine Marrakchi
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SeifAbroud/tunisia-solar-priority-zones/blob/main/notebooks/tunisia_solar_priority_zones.ipynb)
 
